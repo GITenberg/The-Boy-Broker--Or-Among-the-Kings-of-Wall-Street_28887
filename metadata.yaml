@@ -1,0 +1,36 @@
+_repo: The-Boy-Broker--Or-Among-the-Kings-of-Wall-Street_28887
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28887-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Munsey, Frank Andrew
+    alias: Munsey, Frank A.
+    birthdate: 1854
+    deathdate: 1925
+    gutenberg_agent_id: '33024'
+    url: http://www.gutenberg.org/2009/agents/33024
+description: ''
+gutenberg_issued: '2009-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Stockbrokers -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Unemployment -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: The Boy Broker; Or, Among the Kings of Wall Street
+url: http://www.gutenberg.org/ebooks/28887
